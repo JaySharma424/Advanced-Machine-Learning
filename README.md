@@ -1243,14 +1243,6 @@ Interests:
 
 ---
 
-# 🔗 Project Reference
-
-The uploaded notebook references the following GitHub project:
-
-[Integrated Retail Analytics for Store Optimization](https://github.com/rahul99554/Integrated-Retail-Analytics-for-Store-Optimization)
-
----
-
 # ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ and exploring the notebook for the complete implementation.
